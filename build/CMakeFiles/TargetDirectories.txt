@@ -1,0 +1,12 @@
+/mnt/hgfs/git/C_Demo/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/git/C_Demo/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/git/C_Demo/build/src/CMakeFiles/CURL.dir
+/mnt/hgfs/git/C_Demo/build/src/CMakeFiles/UDP_CLIENT.dir
+/mnt/hgfs/git/C_Demo/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/git/C_Demo/build/src/CMakeFiles/ROBOT.dir
+/mnt/hgfs/git/C_Demo/build/src/CMakeFiles/edit_cache.dir
+/mnt/hgfs/git/C_Demo/build/src/CMakeFiles/UDP_SERVER.dir
+/mnt/hgfs/git/C_Demo/build/src/mqtt/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/git/C_Demo/build/src/mqtt/CMakeFiles/edit_cache.dir
+/mnt/hgfs/git/C_Demo/build/src/mqtt/CMakeFiles/MQTT_SUB.dir
+/mnt/hgfs/git/C_Demo/build/src/mqtt/CMakeFiles/MQTT_PUB.dir

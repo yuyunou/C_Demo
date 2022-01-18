@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/UDP_SERVER.dir/udp_server.cpp.o  -o UDP_SERVER  -L/mnt/hgfs/git/C_Demo/lib  -L/mnt/hgfs/git/C_Demo/lib/hp_socket -Wl,-rpath,/mnt/hgfs/git/C_Demo/lib:/mnt/hgfs/git/C_Demo/lib/hp_socket -lhpsocket 

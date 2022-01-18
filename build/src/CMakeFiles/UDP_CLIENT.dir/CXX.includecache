@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hp_socket/GlobalDef.h
+sys/types.h
+-
+
+../include/hp_socket/HPSocket.h
+SocketInterface.h
+../include/hp_socket/SocketInterface.h
+
+../include/hp_socket/HPTypeDef.h
+GlobalDef.h
+../include/hp_socket/GlobalDef.h
+
+../include/hp_socket/SocketInterface.h
+HPTypeDef.h
+../include/hp_socket/HPTypeDef.h
+
+/mnt/hgfs/git/C_Demo/src/udp_client.cpp
+iostream
+-
+HPSocket.h
+/mnt/hgfs/git/C_Demo/src/HPSocket.h
+HPTypeDef.h
+/mnt/hgfs/git/C_Demo/src/HPTypeDef.h
+SocketInterface.h
+/mnt/hgfs/git/C_Demo/src/SocketInterface.h
+unistd.h
+-
+
